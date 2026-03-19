@@ -31,7 +31,10 @@ https://t.me/AbdalV2rayBot
 
 
 ### 📦 Subscription Group Links
-
+- AIvanov configs
+```
+https://raw.githubusercontent.com/a-ivanov-771/free-v2ray-public-list/refs/heads/main/configs_v2n_aivanov.txt
+```
 - All Protocols Combined:
 ```
 https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt
